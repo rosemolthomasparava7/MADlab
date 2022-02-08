@@ -14,7 +14,9 @@ Activity main.xml
         android:id="@+id/b"
         android:onClick="move"/>
 </LinearLayout>
+
 mainactivity.java
+
 package com.example.sjcet.cycle21;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
